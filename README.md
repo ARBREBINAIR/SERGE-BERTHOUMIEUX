@@ -5,7 +5,7 @@ Passionné en réseau et  système , je suis un étudiant ingénieur à l'ETIAM 
 
 ![Bannière](https://www.rennes-business.com/uploads/sites/2/elementor/thumbs/Cybersecurite-serveurs_rennes-2-o9sh8xd5rfajd2j12zyuh0sxdwi7kbw6w2s3861i0g.jpg)
 <h1 align="center">Hi 👋, I'm SERGE BERTHOUMIEUX</h1>
-<h3 align="center">A passionate about cybersecurity from cameroun</h3>
+<h3 align="center">A passionate about cybersecurity </h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbrebinair&label=Profile%20views&color=0e75b6&style=flat" alt="arbrebinair" /> </p>
